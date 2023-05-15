@@ -20,7 +20,7 @@
 ###############################################################
 
 custom_env_vars='{PORTAL_ASSETS_URL:"'$PORTAL_ASSETS_URL'",PORTAL_BACKEND_URL:"'$PORTAL_BACKEND_URL'",CENTRALIDP_URL:"'$CENTRALIDP_URL'",BPDM_API_URL:"'$BPDM_API_URL'",SEMANTICS_URL:"'$SEMANTICS_URL'"}'
-custom_env_vars_anchor='{PORTAL_ASSETS_URL:"http://localhost:3000/assets",PORTAL_BACKEND_URL:"https://portal-backend.core.demo.hera-x.net",CENTRALIDP_URL:"https://centralidp.core.demo.hera-x.net/auth/",BPDM_API_URL:"https://partners-pool.dev.demo.catena-x.net/api",SEMANTICS_URL:"https://semantics.dev.demo.catena-x.net"}'
+custom_env_vars_anchor='{PORTAL_ASSETS_URL:"http://localhost:3000/assets",PORTAL_BACKEND_URL:"https://portal-backend.core.demo.hera-x.net",CENTRALIDP_URL:"https://partners-pool.core.demo.hera-x.net/*",BPDM_API_URL:"https://partners-pool.dev.demo.catena-x.net/api",SEMANTICS_URL:"https://semantics.dev.demo.catena-x.net"}'
 index_html_reference=`cat /usr/share/nginx/html/index.html.reference`
 index_html=${index_html_reference//$custom_env_vars_anchor/$custom_env_vars}
 echo "$index_html" > /usr/share/nginx/html/index.html
