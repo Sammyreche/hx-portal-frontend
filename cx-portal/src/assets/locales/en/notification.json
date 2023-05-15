@@ -1,7 +1,7 @@
 {
   "WELCOME": {
-    "title": "Welcome to Catena-X!",
-    "content": "Welcome to the Catena- X Network. To easily get you onboarded, a number of notifications / onboarding steps have been defined. Please check your notifications and start the configuration of your company area inside the portal to have a network experience based on your need."
+    "title": "Welcome to Her a-X!",
+    "content": "Welcome to the Hera-X Network. To easily get you onboarded, a number of notifications / onboarding steps have been defined. Please check your notifications and start the configuration of your company area inside the portal to have a network experience based on your need."
   },
   "WELCOME_USE_CASES": {
     "title": "Browse common Use Cases",
@@ -45,7 +45,7 @@
   },
   "APP_RELEASE_REJECTION": {
     "title": "App Release request rejected",
-    "content": "Your request for app {{offer}} got rejected. We regret to inform you that your app release request has been rejected. We take great pride in the quality of our apps and the user experience that they provide. Although your app has a lot of potential, it does not meet our standards for marketplace release. With the appropriate changes, your app can reach the level of quality that meets our standards. If you need support, please don't esitate to reach out for support. We look forward to seeing your app reach its full potential and be released. Sincerely, Catena-X."
+    "content": "Your request for app {{offer}} got rejected. We regret to inform you that your app release request has been rejected. We take great pride in the quality of our apps and the user experience that they provide. Although your app has a lot of potential, it does not meet our standards for marketplace release. With the appropriate changes, your app can reach the level of quality that meets our standards. If you need support, please don't esitate to reach out for support. We look forward to seeing your app reach its full potential and be released. Sincerely, Hera-X."
   },
   "AppTermsChange": {
     "title": "Changed terms and conditions",

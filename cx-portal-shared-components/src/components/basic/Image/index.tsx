@@ -75,7 +75,7 @@ export const Image = ({ src, alt, style, loader }: ImageProps) => {
   return (
     <img
       src={!load && !error && src.startsWith('blob:') ? src : data}
-      alt={alt || 'Catena-X'}
+      alt={alt || 'Hera-X'}
       onError={() => {
         setData(LogoGrayData)
         if (load) {

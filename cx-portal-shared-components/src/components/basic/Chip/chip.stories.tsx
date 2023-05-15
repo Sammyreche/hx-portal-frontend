@@ -38,7 +38,7 @@ export default {
     docs: {
       page: () => (
         <>
-          <h1>Catena-X Chip Component</h1>
+          <h1>Hera-X Chip Component</h1>
           <p>
             Chip component used the same way as described in the
             <a

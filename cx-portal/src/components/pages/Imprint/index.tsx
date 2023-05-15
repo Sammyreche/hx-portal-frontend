@@ -39,7 +39,7 @@ export default function Imprint() {
         <br />
         <Typography variant="body2">{t('address')}</Typography>
         <Typography variant="body2">
-          Catena-X Automotive Network e.V.
+          Hera-X .
         </Typography>
         <Typography variant="body2">c/o IFOK GmbH</Typography>
         <Typography variant="body2">Reinhardtstraße 58</Typography>

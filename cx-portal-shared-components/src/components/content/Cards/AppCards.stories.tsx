@@ -36,10 +36,10 @@ const Template: ComponentStory<typeof Component> = (args: any) => (
 
 const item = {
   title: 'Digital Twin Aspect Debugger',
-  subtitle: 'Catena-X',
+  subtitle: 'Hera-X',
   image: {
     src: 'https://images.unsplash.com/photo-1517153295259-74eb0b416cee?auto=format&fit=crop&w=640&q=420',
-    alt: 'Catena-X Card',
+    alt: 'Hera-X Card',
   },
   rating: 4.5,
   price: 'free to use',

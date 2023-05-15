@@ -34,5 +34,5 @@ const Template: ComponentStory<typeof Component> = (args: any) => (
 export const Logo = Template.bind({})
 Logo.args = {
   variant: 'short',
-  altText: 'Logo CatenaX',
+  altText: 'Logo HeraX',
 }

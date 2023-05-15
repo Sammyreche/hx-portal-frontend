@@ -1,6 +1,6 @@
 {
   "headerTitle": "Service Release Process",
-  "descHeading": "Publish your company services inside the Catena-X marketplace",
+  "descHeading": "Publish your company services inside the Hera-X marketplace",
   "descMessage": "Register your service and metadata to get published on the marketplace. Scrolling down, you can find a quick overview of the service release process.",
   "startCreatingButton": "Start to register your service offering",
   "registerButton": "Register your service",
@@ -40,12 +40,12 @@
     "providerDetails": "Provider Details",
     "providerHomePage": "Provider Homepage",
     "providerContactEmail": "Customer Contact E-Mail",
-    "pleaseEnterValidHomePageURL": "Please enter a valid url - eg: https://catena-x.net",
+    "pleaseEnterValidHomePageURL": "Please enter a valid url - eg: https://hera-x.net",
     "pleaseEnterValidEmail": "Please enter a valid Customer Contact E-Mail"
   },
   "step3": {
     "headerTitle": "Agreements and Consent",
-    "headerDescription": "To publish your service on the marketplace, a number of Catena-X specific agreements need to get signed by you. Please have a look at the mentioned agreements and agree to them via the checklist approval."
+    "headerDescription": "To publish your service on the marketplace, a number of Hera-X specific agreements need to get signed by you. Please have a look at the mentioned agreements and agree to them via the checklist approval."
   },
   "step4": {
     "headerTitle": "Validate & Publish",
@@ -89,9 +89,9 @@
   },
   "submit": {
     "headerTitle": "Thank you for submitting the service!",
-    "headerDescription": "After a review by a Catena-X administrator, you will receive",
+    "headerDescription": "After a review by a Heras-X administrator, you will receive",
     "headerDescriptionComplete": "further information on service release",
-    "yourCatenaXTeam": "Your Catena-X team",
+    "yourCatenaXTeam": "Your Hera-X team",
     "overview": "My services overview"
   },
   "defaultValues": {

@@ -1,5 +1,5 @@
 {
-  "title": "Catena-X Portal",
+  "title": "Hera-X Portal",
   "pages": {
     "home": "Home",
     "registration": "Onboarding Registration",
@@ -109,7 +109,7 @@
         "bpnError": "Valid BPN eg: BPNLXXXXXXXXXXXX",
         "headertitle": "Admin Board",
         "headersubtitle": "Application Requests",
-        "introText1": "The application request board includes all current outstanding application requests as well as an overview of confirmed and declined company applications to the Catena-X Network.",
+        "introText1": "The application request board includes all current outstanding application requests as well as an overview of confirmed and declined company applications to the Hera-X Network.",
         "introText2": "If an application is approved, the registration company will receive access to the CX portal to start the technical and functional onboarding. Please make sure that you validate the application request details before approving a request.",
         "tabletitle": "Registration requests",
         "pending": "pending",
@@ -176,13 +176,13 @@
     },
     "home": {
       "stage": {
-        "title": "Catena-X",
+        "title": "Hera-X",
         "subtitle": "the gateway to the automotive digital network",
         "cxButton": "My CX",
         "appButton": "My Apps"
       },
       "searchSection": {
-        "inputPlaceholder": "Search in Catena-X"
+        "inputPlaceholder": "Search in Hera-X"
       },
       "businessApplicationsSection": {
         "title": "My Business Applications"
@@ -196,7 +196,7 @@
     },
     "appstore": {
       "stage": {
-        "title": "Catena-X App Store",
+        "title": "Hera-X App Store",
         "subtitle": "A scalable & expandable ecosystem",
         "appButton": "App Overview"
       },
@@ -227,7 +227,7 @@
     "semantichub": {
       "title": "Semantic Data Models",
       "introText_0": "Semantic models are used to structure data. As a concept, they make it possible to give fundamental meaning to data and their relationships. In the context of data modeling and data organization they realize the development of applications as well as the maintenance of data consistency.",
-      "introText_1": "In Catena-X, semantic data models are provided in a suitable publication system, the so-called Semantic Hub. For data or service providers, the Semantic Hub presents a foundation for the use and reuse of semantic models. For this reason, the publication of a semantic data model takes place under the specification of a version. This supports transparency as well as control over all semantic models and their release status.",
+      "introText_1": "In Hera-X, semantic data models are provided in a suitable publication system, the so-called Semantic Hub. For data or service providers, the Semantic Hub presents a foundation for the use and reuse of semantic models. For this reason, the publication of a semantic data model takes place under the specification of a version. This supports transparency as well as control over all semantic models and their release status.",
       "addModel": "Neues Model anlegen",
       "alerts": {
         "alertSuccessTitle": "Success!",
@@ -287,7 +287,7 @@
           "itemXml": "XML"
         },
         "fileError": "Error: The file could not be loaded.",
-        "ttlTooltip": "The downloaded Turtle file looks different but is semantically the same compared to the uploaded Turtle file for the Aspect. To further develop existing Aspects refer to the source Turtle files (e.g. in the Catena-X BAMM Model GitHub Repository)",
+        "ttlTooltip": "The downloaded Turtle file looks different but is semantically the same compared to the uploaded Turtle file for the Aspect. To further develop existing Aspects refer to the source Turtle files (e.g. in the Hera-X BAMM Model GitHub Repository)",
         "downloadTitle": "Download options related to this aspect model",
         "openApi": {
           "inputLabel": "Enter a base URL to change the default open API URL.",
@@ -382,7 +382,7 @@
     },
     "deactivate": {
       "headerTitle": "Deactivate Business App",
-      "description": "Deactivation of business applications will deactivate the app offer inside the Catena-X marketplace. Any current active subscription will stay active and customers wont be effected by the deactivation. New subscriptions are not possible.",
+      "description": "Deactivation of business applications will deactivate the app offer inside the Hera-X marketplace. Any current active subscription will stay active and customers wont be effected by the deactivation. New subscriptions are not possible.",
       "checkboxLabel": "Hereby I confirm that I have read the business app terms and conditions and that I am deactivating my company business application from the marketplace with immediate effect. I understand that it is not possible to self-reverse the deactivation.",
       "checkboxErrorMsg": "Please confirm that you have read the deactivation impact above before proceeding",
       "successMsg": "Deactivation successfully completed",
@@ -455,7 +455,7 @@
           "url": {
             "label": "Connector URL/Endpoint*",
             "placeholder": "Connector URL",
-            "error": "Enter a valid url - eg: https://catena-x.net",
+            "error": "Enter a valid url - eg: https://hera-x.net",
             "tooltipMsg": "URL of the connector endpoint. Only https:// endpoints are allowed"
           },
           "bpn": {
@@ -525,7 +525,7 @@
       "headerIntro": "Add below the business partner registration contact and the company name.",
       "subHeaderTitle": "Invite a new partner",
       "inviteText1": "Registration application invite process.",
-      "inviteText2": "Invite a new partner to Catena-X.",
+      "inviteText2": "Invite a new partner to Hera-X.",
       "invite": "Invite",
       "success": "Business Partner Successfully Invited",
       "successSubText": "The window will close automatically. In case it doesn't, please use the 'close' button on the top right.",
@@ -620,7 +620,7 @@
       "deleteUserConfirm": {
         "header": "Delete user account",
         "confirmTitle": "Are you sure you want to delete the user account of {userName}?",
-        "description": "By deleting the account, the access of this user to Catena-X as well as any rights and data access will get revoked.",
+        "description": "By deleting the account, the access of this user to Hera-X as well as any rights and data access will get revoked.",
         "note": "Note: If you delete the account now, you wont be able to reactivate it later.",
         "successTitle": "User successfully deleted",
         "successDescription": "The user is successfully deleted and all rights are disabled.",
@@ -630,7 +630,7 @@
       "suspendUserConfirm": {
         "header": "Suspend user account",
         "confirmTitle": "Are you sure you want to suspend the user account of {userName}?",
-        "description": "By suspending the account, the access of this user to Catena-X as well as any permissions and data accesses will get deactivated temporarily.",
+        "description": "By suspending the account, the access of this user to Hera-X as well as any permissions and data accesses will get deactivated temporarily.",
         "note": "Note: Suspended accounts can get reactivated anytime.",
         "successTitle": "User successfully suspended",
         "successDescription": "The user is successfully suspended and all rights are disabled.",
@@ -649,7 +649,7 @@
       "deleteOwnUserConfirm": {
         "header": "Delete my user account",
         "confirmTitle": "Are you sure you want to delete this user account?",
-        "description": "By deleting the account, the access of this user to Catena-X as well as any rights and data access will get revoked.",
+        "description": "By deleting the account, the access of this user to Hera-X as well as any rights and data access will get revoked.",
         "note": "Note: If you delete the account now, you wont be able to reactivate it later.",
         "successTitle": "User successfully deleted",
         "successDescription": "Your user got successfully deleted, you will get disconnected within the following 5 seconds.",
@@ -670,7 +670,7 @@
       "enableIdpSuccessSubheadline": "Go and test the login now",
       "disableIdpHeadline": "Disable Identity Provider {{ idp }}",
       "disableIdpSubheadline": "This will remove the option to sign in for people of your company",
-      "description": "Here you can manage how the users of your company authenticate with Catena-X. On registration we have created an IDP with one user entry for the admin (that's probably you ;). Many companies already have their own IDP where users authenticate using their known company user id and a familiar login mask. In this case you will probably prefer to use your own company IDP and you can create and manage the federation on this page.",
+      "description": "Here you can manage how the users of your company authenticate with Hera-X. On registration we have created an IDP with one user entry for the admin (that's probably you ;). Many companies already have their own IDP where users authenticate using their known company user id and a familiar login mask. In this case you will probably prefer to use your own company IDP and you can create and manage the federation on this page.",
       "create": "Add Identity Provider"
     },
     "idpdetail": {
@@ -760,7 +760,7 @@
       }
     },
     "footer": {
-      "copyright": "Copyright © Catena-X Automotive Network"
+      "copyright": "Legal placeholder"
     },
     "logout": {
       "message": "We are logging you out now... Hope to see you again soon!"
@@ -772,7 +772,7 @@
       "button": "HomePage",
       "reason": {
         "nopermission": "you have no permission to view this content or",
-        "notexisting": "the page doesn't exist in the Catena-X portal or",
+        "notexisting": "the page doesn't exist in the Hera-X portal or",
         "notimplemented": "hasn't been implemented yet."
       },
       "further": "If you think there should be content please contact your administrator."
@@ -818,7 +818,7 @@
     },
     "apprelease": {
       "headerTitle": "App Release Process",
-      "descHeading": "Publish your company app inside the Catena-X marketplace",
+      "descHeading": "Publish your company app inside the Hera-X marketplace",
       "descMessage": "Register your app and metdata to get published on the marketplace. Scrolling down, you can find a quick overview of the app release process.",
       "startCreatingButton": "Register your app",
       "registerButton": "Register your app",
@@ -841,7 +841,7 @@
         "headerTitle": "Create App Card",
         "headerDescription": "The following input fields and uploads are used to create your app 'App Card' which will be placed inside the marketplace. The app card is the first touchpoint with the customer. While entering the data below, have a look at the app card on the left side which is getting autoupdated based on your input.",
         "defaultCardAppImageAlt": "App Logo",
-        "defaultCardAppProvider": "Catena-X",
+        "defaultCardAppProvider": "Hera-X",
         "defaultCardAppTitle": "This is the app title",
         "defaultCardShortDescriptionEN": "[short description EN] this section will get replaced with your app short description",
         "appTitle": "App Title",
@@ -874,7 +874,7 @@
         "providerContactEmail": "Customer Contact E-Mail",
         "providerPhoneContact": "Provider Phone Contact",
         "providerPhoneContactPlaceholder": "Following formats are supported: +xx (xxx) xxxxxxxxxx; +xx xxxxxxxxxx and +xxxxxxxxxxxx",
-        "pleaseEnterValidHomePageURL": "Please enter a valid url - eg: https://catena-x.net",
+        "pleaseEnterValidHomePageURL": "Please enter a valid url - eg: https://hera-x.net",
         "pleaseEnterValidEmail": "Please enter a valid Customer Contact E-Mail",
         "pleaseEnterValidContact": "Please enter a valid Provider Phone Contact in the format +xx (xxx) xxxxxxxxxx; +xx xxxxxxxxxx and +xxxxxxxxxxxx",
         "privacyInformation": "Privacy Information",
@@ -883,7 +883,7 @@
       },
       "contractAndConsent": {
         "headerTitle": "Consent & Contract",
-        "headerDescription": "To publish your app on the marketplace, a number of Catena-X specific agreements need to get signed by you. Please have a look at the mentioned agreements and agree to them via the checklist approval.",
+        "headerDescription": "To publish your app on the marketplace, a number of Hera-X specific agreements need to get signed by you. Please have a look at the mentioned agreements and agree to them via the checklist approval.",
         "allAgreementsMandatory": "All agreements are mandatory",
         "uploadImageConformity": "Conformity App Certificate",
         "documentDeleteSuccess": "Document deleted successfully"
@@ -940,9 +940,9 @@
       },
       "submit": {
         "headerTitle": "Thank you for submitting the app!",
-        "headerDescription": "After a review by a Catena-X administrator, you will receive",
+        "headerDescription": "After a review by a Hera-X administrator, you will receive",
         "headerDescriptionComplete": "further information on app release",
-        "yourCatenaXTeam": "Your Catena-X team",
+        "yourCatenaXTeam": "Your Hera-X team",
         "overview": "My apps overview"
       },
       "defaultValues": {
@@ -1265,7 +1265,7 @@
       }
     },
     "roleDetails": {
-      "heading": "Overview of the available Catena-X portal roles",
+      "heading": "Overview of the available Hera-X portal roles",
       "tab1": "Role Descriptions",
       "tab2": "Role Comparison"
     }
@@ -1307,7 +1307,7 @@
       "uploadProgess": "Uploaded % of % files"
     },
     "userRoles": {
-      "title": "Assigned Catena-X Portal Roles",
+      "title": "Assigned Hera-X Portal Roles",
       "changeRoleBtn": "Change Portal Role"
     }
   },

@@ -29,7 +29,7 @@ interface ErrorImageProps {
 
 export const ErrorImage = ({
   variant = 'color',
-  altText = 'Catena-X Error',
+  altText = 'Hera-X Error',
   ...props
 }: ErrorImageProps) => (
   <BaseImage
