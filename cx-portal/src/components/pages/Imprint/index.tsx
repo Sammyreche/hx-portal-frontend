@@ -38,9 +38,7 @@ export default function Imprint() {
         </Typography>
         <br />
         <Typography variant="body2">{t('address')}</Typography>
-        <Typography variant="body2">
-          Hera-X .
-        </Typography>
+        <Typography variant="body2">Hera-X .</Typography>
         <Typography variant="body2">c/o IFOK GmbH</Typography>
         <Typography variant="body2">Reinhardtstraße 58</Typography>
         <Typography variant="body2">10117 Berlin</Typography>
