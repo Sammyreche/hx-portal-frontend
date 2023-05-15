@@ -33,7 +33,7 @@ export const LogoGrayData =
 
 export const Logo = ({
   variant = 'standard',
-  altText = 'Catena-X',
+  altText = 'Hera-X',
   ...props
 }: LogoProps) => {
   let image
